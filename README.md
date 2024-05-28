@@ -42,4 +42,11 @@ Experienced DevOps Engineer specializing in AWS with a proven track record of de
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
+![Docker](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
+![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg)
+![Terraform](https://www.terraform.io/assets/images/og-image-8b3e4f7d.png)
+![Jenkins](https://www.jenkins.io/images/logos/jenkins/jenkins.svg)
+
+
 Feel free to customize it further to better fit your personal experience and preferences!
