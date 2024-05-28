@@ -1,11 +1,11 @@
 Hello there 👋, I'm Omprakash Athilkar
-Software/DevOps/Platform Engineer
+AWS/DevOps/Platform Engineer
 
     🔭 I’m currently working on: DevOps & Deployment 
     🌱 I’m currently learning: Exploring Tools, AI agents Applications, Blockchain
     💬 Ask me about DevOps, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, New Relic
        Indian name:
-    ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
+    ⚡ Fun fact: 
 
 
 ---
@@ -16,9 +16,8 @@ Experienced DevOps Engineer specializing in AWS with a proven track record of de
 
 ### Technical Skills
 - **Cloud Platforms:** AWS (EC2, S3, RDS, Lambda, CloudFormation, IAM, VPC, etc.)
-  (![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=plastic))
-  ![Amazon EC2 Badge](https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=flat-square)
 
+ 
 - **Configuration Management:** Ansible, Puppet, Chef
 - **CI/CD:** Jenkins, GitLab CI, CircleCI, AWS CodePipeline
 - **Containerization:** Docker, Kubernetes, ECS, EKS
