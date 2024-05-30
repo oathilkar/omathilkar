@@ -1,10 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to Omprakash Athilkar
+<h1> Hi 👋 Welcome to Omprakash Athilkar
 
 
 
-<p>
-Hi 👋,
-My name is Omprakash Athilkar;</p>
+
+Hi , ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+My name is Omprakash Athilkar;
 <p>5+ years experienced focused, organized DevOps-AWS professional with finer agility, adaptability, cognitive & leadership skills; having zeal for knowledge, will for skills & ambition for growth. </p>
 <p>I have experience on multiple DevOps tech stacks, Platform Engineering that utilized to server Banking & Telecommunication domain. </p>
 <p>I have amassed experience of working on Tier Architecture & Microservices. </p>
