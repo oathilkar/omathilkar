@@ -19,7 +19,7 @@ My name is Omprakash Athilkar;
   
 *   ✉️  You can contact me at [oomathilkar@hotmail.com](mailto:oomathilkar@hotmail.com)
 
-*   🚀  I'm currently working on [Banking domain Apps/microservices](http://h)*
+*   🚀  I'm currently working on [Banking domain Apps/microservices](http://h)
 
 *   🧠  I'm learning & exploring emerging DevOps, Platform Engineering, Serverless technologies & monitoring tools.
 
