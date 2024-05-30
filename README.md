@@ -1,58 +1,33 @@
-Hello there 👋, I'm Omprakash Athilkar
-AWS/DevOps/Platform Engineer
+<h1 align="center">Hi 👋, I'm Omprakash Athilkar</h1>
+<h3 align="center">5+ Years experienced DevOps-AWS Engineer from India, Earth</h3>
 
-    🔭 I’m currently working on: DevOps & Deployment 
-    🌱 I’m currently learning: Exploring Tools, AI agents Applications, Blockchain
-    💬 Ask me about DevOps, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, New Relic
-       Indian name:
-    ⚡ Fun fact: 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oathilkar&label=Profile%20views&color=0e75b6&style=flat" alt="oathilkar" /> </p>
 
+- 🔭 I’m currently working on **Banking Domain Projects**
 
----
+- 🌱 I’m currently learning **LLMOps, SLM**
 
-## Summary
+- 👯 I’m looking to collaborate on **open-source projects**
 
-Experienced DevOps Engineer specializing in AWS with a proven track record of designing and implementing scalable, reliable, and secure cloud infrastructure. Proficient in automating workflows, optimizing performance, and enhancing the overall efficiency of development and operational processes. Passionate about leveraging cutting-edge technologies to solve complex problems and drive continuous improvement.
+- 🤝 I’m looking for help with **New job opportunity**
 
-### Technical Skills
-- **Cloud Platforms:** AWS (EC2, S3, RDS, Lambda, CloudFormation, IAM, VPC, etc.)
+- 👨‍💻 All of my projects are available at [https://oathilkar.github.io/](https://oathilkar.github.io/)
 
- 
-- **Configuration Management:** Ansible, Puppet, Chef
-- **CI/CD:** Jenkins, GitLab CI, CircleCI, AWS CodePipeline
-- **Containerization:** Docker, Kubernetes, ECS, EKS
-- **Scripting Languages:** Python, Bash, PowerShell
-- **Monitoring & Logging:** CloudWatch, ELK Stack, Prometheus, Grafana
-- **Version Control:** Git, GitHub, Bitbucket
-- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation
-- **Networking:** VPC, VPN, Route 53, ELB
+- 💬 Ask me about **AWS Services, Architectures, DevOps process & tools**
 
-### Experience Highlights
-- **Automated Infrastructure Provisioning:** Developed and maintained Infrastructure as Code (IaC) using Terraform and AWS CloudFormation, reducing provisioning time by 70%.
-- **CI/CD Pipelines:** Designed and implemented robust CI/CD pipelines using Jenkins and AWS CodePipeline, enhancing deployment frequency and reducing lead time for changes.
-- **Cost Optimization:** Identified and executed strategies to optimize AWS costs, achieving a 30% reduction in monthly cloud expenditure.
-- **Security & Compliance:** Ensured infrastructure security and compliance with industry standards, implemented IAM best practices, and conducted regular security audits.
-- **Performance Tuning:** Monitored and optimized system performance using AWS CloudWatch and Prometheus, resulting in improved application responsiveness and reliability.
+- 📫 How to reach me **oomathilkar@hotmail.com**
 
-### Open Source Contributions
-- Contributed to [Open Source Project Name](link) - [Brief description of contribution].
-- Developed [Tool/Script Name](link) - [Brief description of tool or script].
+- ⚡ Fun fact **Me funny; Be funny just don't try to be one !**
 
-### Contact
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Website/Blog:** [Your Website or Blog]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oathilkar&show_icons=true&locale=en&layout=compact" alt="oathilkar" /></p>
 
-![Workflow Status](https://github.com/user/repo/actions/workflows/workflow.yml/badge.svg)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oathilkar&show_icons=true&locale=en" alt="oathilkar" /></p>
 
-
-
-Feel free to customize it further to better fit your personal experience and preferences!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oathilkar&" alt="oathilkar" /></p>
