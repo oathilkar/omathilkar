@@ -4,7 +4,19 @@ DevOps AWS Engineer
 5+ years experienced focused, organized DevOps-AWS professional with finer agility, adaptability, cognitive & leadership skills; having zeal for knowledge, will for skills & ambition for growth. 
 I have experience on multiple DevOps tech stacks, Platform Engineering that utilized to server Banking & Telecommunication domain.
 I have amassed experience of working on Tier Architecture & Microservices. 
-Being Design engineer at core, worked on design & implementation of AWS Cloud services along with installation, configuration & operation of various DevOps tools. I regard, inline career direction is to work on Architectural Solutions to serve & resolve business & technical ends.* 🌍  I'm based in Nasik-Pune, Maharashtra, India* 🖥️  See my portfolio at [My Portfolio: O.M.Athilkar](http://oathilkar.github.io/)* ✉️  You can contact me at [oomathilkar@hotmail.com](mailto:oomathilkar@hotmail.com)* 🚀  I'm currently working on [Banking domain Apps/microservices](http://h)* 🧠  I'm learning & exploring emerging DevOps, Platform Engineering, Serverless technologies & monitoring tools* 🤝  I'm open to collaborating on open-source, GitOps, LLMOps, SLMOps, MLOps
+Being Design engineer at core, worked on design & implementation of AWS Cloud services along with installation, configuration & operation of various DevOps tools. I regard, inline career direction is to work on Architectural Solutions to serve & resolve business & technical ends.* 
+
+🌍  I'm based in Nasik-Pune, Maharashtra, India* 
+
+🖥️  See my portfolio at [My Portfolio: O.M.Athilkar](http://oathilkar.github.io/)* 
+
+✉️  You can contact me at [oomathilkar@hotmail.com](mailto:oomathilkar@hotmail.com)* 
+
+🚀  I'm currently working on [Banking domain Apps/microservices](http://h)*
+
+🧠  I'm learning & exploring emerging DevOps, Platform Engineering, Serverless technologies & monitoring tools* 
+
+🤝  I'm open to collaborating on open-source, GitOps, LLMOps, SLMOps, MLOps
 
 ### Skills
 
