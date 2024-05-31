@@ -26,6 +26,23 @@ My name is Omprakash Athilkar;
 *   🤝  I'm open to collaborating on open-source, GitOps, LLMOps, SLMOps, MLOps projects
 
 
+    <tbody><tr>
+        <th>My Blog</th>
+        <th>My Website</th>
+        <th>My CV</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://colin-but.medium.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/8282a1ae3db99147445d6d6dfbb6c34865b24836e3c04554aefedbf06440ae0f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d656469756d2f6d656469756d2d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" style="max-width: 100%;"></a>
+        </td>
+        <td>
+            <a href="https://colinbut.github.io/" rel="nofollow">🌐</a>
+        </td>
+        <td>
+            <a href="https://colinbut.github.io/online-resume" rel="nofollow">📃</a>
+        </td>
+    </tr>
+</tbody>
 
 🚀 DevOps Skills & Tools
 
