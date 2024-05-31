@@ -26,6 +26,7 @@ My name is Omprakash Athilkar;
 *   🤝  I'm open to collaborating on open-source, GitOps, LLMOps, SLMOps, MLOps projects
 
 
+<table>
     <tbody><tr>
         <th>My Blog</th>
         <th>My Website</th>
@@ -42,7 +43,8 @@ My name is Omprakash Athilkar;
             <a href="https://colinbut.github.io/online-resume" rel="nofollow">📃</a>
         </td>
     </tr>
-</tbody>
+</tbody></table>
+
 
 🚀 DevOps Skills & Tools
 
