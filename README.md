@@ -46,6 +46,19 @@ My name is Omprakash Athilkar;
 </tbody></table>
 
 
+🚀 Cloud Skills & Tools
+
+<p align="left">
+
+<a href="/colinbut/colinbut/blob/main"><img src="https://github.com/devicons/devicon/raw/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="max-width: 100%;"></a>
+            <a href="/colinbut/colinbut/blob/main"><img src="https://camo.githubusercontent.com/28f1283e64ea392dac4a73f9ec54d708354a8a5ab77b30be1dd50a4a941d12ca/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616d617a6f6e5f636c6f7564666f726d6174696f6e2f616d617a6f6e5f636c6f7564666f726d6174696f6e2d69636f6e2e737667" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" style="max-width: 100%;"></a>
+            <a href="/colinbut/colinbut/blob/main"><img src="https://camo.githubusercontent.com/bf2fb04e85c8419626e020cf1cf726f481a5a4bc29d30bc39918d83a0e8fada8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616d617a6f6e5f656b732f616d617a6f6e5f656b732d69636f6e2e737667" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" style="max-width: 100%;"></a>
+            <a href="/colinbut/colinbut/blob/main"><img src="https://camo.githubusercontent.com/9c1b2d780ece4921f5f17cd21d636c8d504d7b1f1429ec37ff1e6b4aad30f306/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616d617a6f6e5f6563732f616d617a6f6e5f6563732d69636f6e2e737667" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" style="max-width: 100%;"></a>
+            <a href="/colinbut/colinbut/blob/main"><img src="https://camo.githubusercontent.com/6d0e19eebabf4a05b7babd0bd631103f99fee941891ae7b02fc94610c5bdfa23/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616d617a6f6e5f656c6173746963636f6e7461696e65722f616d617a6f6e5f656c6173746963636f6e7461696e65722d69636f6e2e737667" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" style="max-width: 100%;"></a>
+            <a href="/colinbut/colinbut/blob/main"><img src="https://camo.githubusercontent.com/22ff2f5a8cf39deb10f18bcfceb1355ca16f638a98321fd946f836afa7ec6330/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616d617a6f6e5f636c6f756477617463682f616d617a6f6e5f636c6f756477617463682d69636f6e2e737667" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" style="max-width: 100%;"></a>
+            <a href="/colinbut/colinbut/blob/main"><img src="https://camo.githubusercontent.com/9403758311ca32dc4c4b741840cd650e36590b42f22f55bb5628e5719bcbf846/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7365727665726c6573732f7365727665726c6573732d69636f6e2e737667" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" style="max-width: 100%;"></a>
+
+
 🚀 DevOps Skills & Tools
 
 
