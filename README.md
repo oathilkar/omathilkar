@@ -23,7 +23,7 @@ My name is Omprakash Athilkar;
 
 *   🧠  I'm learning & exploring emerging DevOps, Platform Engineering, Serverless technologies & monitoring tools.
 
-*   🤝  I'm open to collaborating on open-source, GitOps, LLMOps, SLMOps, MLOps projects
+*   🤝  I'm open to collaborating on open-source, GitOps, LLM, SLM, ML, Ops projects
 
 
 <table>
